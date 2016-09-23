@@ -1,1 +1,1 @@
-Hi This is a sample file to demonstrate the purpose of git push and pull
+I dont like the text so i changed it
